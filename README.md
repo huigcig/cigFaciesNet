@@ -6,7 +6,7 @@ Mingcai Hou are the main contributors to the code.
 This publicly available code contains three strategies of field seismic data curation, 
 knowledge-guided synthesization and AI-based generation we proposed for building the benmark dataset, 
 as well as training a network and then apply it for automatic siesmic facies classification 
-on the validation datasets and two distinct field seismic data.
+on the validation datasets and two distinct 3-D field seismic data.
 
 The benchmark dataset of seismic facies ([cigFacies](https://zenodo.org/records/10777460)) constructed by these three strategies 
 has been uploaded uploaded to Zenodo and are freely available at https://zenodo.org/records/10777460
