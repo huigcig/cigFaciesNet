@@ -9,4 +9,4 @@ as well as training a network and then apply it for automatic siesmic facies cla
 on the validation datasets and two distinct 3-D field seismic data.
 
 The benchmark dataset of seismic facies ([cigFacies](https://zenodo.org/records/10777460)) constructed by these three strategies 
-has been uploaded uploaded to Zenodo and are freely available at https://zenodo.org/records/10777460
+has been uploaded to Zenodo and are freely available at https://zenodo.org/records/10777460
